@@ -1,0 +1,5 @@
+# .gitignore for Bsa6b
+./*.o
+./Build/DEBUG/*
+./Build/RELEASE/*
+
